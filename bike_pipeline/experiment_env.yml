@@ -1,0 +1,13 @@
+name: experiment_env
+dependencies:
+- python=3.7.2
+- pip:
+  - azureml-defaults
+  - scikit-learn
+  - pip
+  - pyarrow
+  - hyperopt 
+  - ipykernel
+  - matplotlib
+  - pandas
+  - xgboost
